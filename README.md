@@ -1,0 +1,1 @@
+Bayes classifier is a fundamental concept in machine learning. It's a probabilistic concept that makes predictions based on the Bayes'theorem.The classifier calculates the probability of a data point belonging to a particular class given the features of the data.
